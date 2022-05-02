@@ -1,0 +1,12 @@
+name: alieninvasion # name of conda environment
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - openpyxl=3.0.9
+  - pip:
+    - ipywidgets==7.7.0
+    - pygame==2.1.2
+    - black==22.3.0
+    
+  

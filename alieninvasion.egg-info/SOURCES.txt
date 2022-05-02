@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+alieninvasion.egg-info/PKG-INFO
+alieninvasion.egg-info/SOURCES.txt
+alieninvasion.egg-info/dependency_links.txt
+alieninvasion.egg-info/requires.txt
+alieninvasion.egg-info/top_level.txt
